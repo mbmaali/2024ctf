@@ -1,6 +1,6 @@
 # Forks City!
 
-![Webarchive](washington.jpg)
+!Webarchive (washington.jpg)
 
 Welcome to the Forks, Washington repository! This project is dedicated to providing information and resources about Forks, a small city located in Clallam County, Washington. Forks is known for its lush natural beauty, rich history, and its fame as a key setting in the "Twilight" series by Stephenie Meyer.
 
